@@ -1,1 +1,2 @@
 print("JOOOONOM")
+print("salam")
