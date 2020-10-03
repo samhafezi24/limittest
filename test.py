@@ -1,2 +1,2 @@
 print("JOOOONOM")
-print("salam")
+print("salam khoobi")
